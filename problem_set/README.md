@@ -1,6 +1,6 @@
-# Foobar
+# Code  
 
-Foobar is a Python library for dealing with word pluralization.
+Code is a c sourcecode for teaching computer programming in chonkanyanukoon school.
 
 ## Installation
 
